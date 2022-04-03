@@ -1,0 +1,5 @@
+python-telegram-bot
+pillow
+requests
+# for .env file support
+python-dotenv
