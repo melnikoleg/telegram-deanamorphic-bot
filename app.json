@@ -6,9 +6,9 @@
       "python",
       "proxy"
     ],
-    "website": "https://github.com/ohld/telegram-support-bot",
-    "repository": "https://github.com/ohld/telegram-support-bot",
-    "success_url": "https://github.com/ohld/telegram-support-bot",
+    "website": "https://github.com/melnikoleg/telegram-deanamorphic-bot",
+    "repository": "https://github.com/melnikoleg/telegram-deanamorphic-bot",
+    "success_url": "https://github.com/melnikoleg/telegram-deanamorphic-bot",
     "env": {
       "HEROKU_APP_NAME": {
         "description": "The name of your Heroku app. Yes, again. Just copy-paste it!"
